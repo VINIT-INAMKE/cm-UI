@@ -293,7 +293,7 @@ function MonitorContent() {
                 {status === 'processing' && (
                   <div className="mt-4 p-3 bg-blue-50 dark:bg-blue-950 rounded-md">
                     <p className="text-sm text-blue-900 dark:text-blue-100">
-                      5 AI agents are analyzing your request. This may take 30-60 seconds...
+                      5 AI agents are analyzing your request. This may take 3 - 5 minutes...
                     </p>
                   </div>
                 )}
